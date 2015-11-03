@@ -7,3 +7,8 @@ eureka:
     fetchRegistry: false
   server:
     waitTimeInMsWhenSyncEmpty: 0
+
+management:
+  context-path: /internal
+endpoints:
+  health.sensitive: false

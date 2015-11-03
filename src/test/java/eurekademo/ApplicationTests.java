@@ -34,7 +34,7 @@ public class ApplicationTests {
 	@Test
 	public void adminLoads() {
 		@SuppressWarnings("rawtypes")
-		ResponseEntity<Map> entity = new TestRestTemplate().getForEntity("http://localhost:" + port + "/env", Map.class);
+		ResponseEntity<Map> entity = new TestRestTemplate().getForEntity("http://localhost:" + port + "/internal/env", Map.class);
 		assertEquals(HttpStatus.OK, entity.getStatusCode());
 	}
 

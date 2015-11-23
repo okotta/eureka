@@ -1,0 +1,9 @@
+ _____      ${AnsiColor.BLUE} __  __     ${AnsiColor.DEFAULT} _____       ______    ______    ______      __
+/\  __`\    ${AnsiColor.BLUE}/\ \/\ \    ${AnsiColor.DEFAULT}/\  __`\    /\__  _\  /\__  _\  /\  _  \    /\ \
+\ \ \/\ \   ${AnsiColor.BLUE}\ \ \/'/'   ${AnsiColor.DEFAULT}\ \ \/\ \   \/_/\ \/  \/_/\ \/  \ \ \L\ \   \ \ \
+ \ \ \ \ \  ${AnsiColor.BLUE} \ \ , <    ${AnsiColor.DEFAULT} \ \ \ \ \     \ \ \     \ \ \   \ \  __ \   \ \ \
+  \ \ \_\ \ ${AnsiColor.BLUE}  \ \ \\`\  ${AnsiColor.DEFAULT}  \ \ \_\ \     \ \ \     \ \ \   \ \ \/\ \   \ \_\
+   \ \_____\${AnsiColor.BLUE}   \ \_\ \_\${AnsiColor.DEFAULT}   \ \_____\     \ \_\     \ \_\   \ \_\ \_\   \/\_\
+    \/_____/${AnsiColor.BLUE}    \/_/\/_/${AnsiColor.DEFAULT}    \/_____/      \/_/      \/_/    \/_/\/_/    \/_/
+
+https://github.com/okotta/eureka  | Spring Boot ${spring-boot.formatted-version}
